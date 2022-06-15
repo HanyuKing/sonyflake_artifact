@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.hanyuking</groupId>
+  <groupId>org.projectlombok</groupId>
   <artifactId>sonyflake</artifactId>
   <versioning>
     <release>1.0.0-RELEASE</release>
     <versions>
       <version>1.0.0-RELEASE</version>
     </versions>
-    <lastUpdated>20220615080800</lastUpdated>
+    <lastUpdated>20220615075548</lastUpdated>
   </versioning>
 </metadata>
